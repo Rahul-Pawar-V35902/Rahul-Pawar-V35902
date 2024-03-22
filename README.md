@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul-Pawar
-- 👀 I’m interested in AWS, Coding, Architecture
+- 👀 I’m interested in AWS, Coding, Architecture, System Design, Automation
 - 🌱 I’m currently learning Mars
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me rpawar4@aflac.com
